@@ -1,13 +1,9 @@
 body {
-    background-color: #ffd1dc;
-    color: #e8e9f0;
-    .source-sans-3-<uniquifier> {
-  font-family: "Source Sans 3", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
+    background-color: #ffd7d7;
+    color: #929197;
+    margin: auto;
+    
 }
 * {
   box-sizing: border-box;
-}
 }
